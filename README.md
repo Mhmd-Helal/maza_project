@@ -1,1 +1,1 @@
-hello from maza project
+The maze project is an adaptation of the Wolfenstein 1981 game. The project uses the concept of Raycasting to serve as the viewpoint of the player, giving it a first-person player view. Maps in the game are created using 2D-matrix arrays, which are seen when the player's raycast touch the blocks of the map.
